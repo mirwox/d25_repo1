@@ -1,0 +1,10 @@
+Arroz
+Feijão
+Leite
+Pão
+Ovos
+Frango
+Batata
+Tomate
+Alface
+Sabonete
