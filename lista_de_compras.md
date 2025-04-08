@@ -12,6 +12,8 @@ Bacon
 Banana
 Cidra
 Dinamite
+Laranja
+Suco
 Tomate
 Alface
 Sabonete
