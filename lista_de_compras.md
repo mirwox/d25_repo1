@@ -8,6 +8,10 @@ Pão
 Ovos
 Frango
 Batata
+Bacon
+Banana
+Cidra
+Dinamite
 Tomate
 Alface
 Sabonete
