@@ -8,6 +8,8 @@ Pão
 Ovos
 Frango
 Batata
+Laranja
+Suco
 Tomate
 Alface
 Sabonete
