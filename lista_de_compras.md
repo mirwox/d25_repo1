@@ -1,6 +1,7 @@
 Arroz
 Feijão
 Leite
+Maçã
 Pão
 Ovos
 Frango
